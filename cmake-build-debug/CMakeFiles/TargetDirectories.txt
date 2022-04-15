@@ -1,0 +1,3 @@
+/home/gcode/CLionProjects/CardGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/gcode/CLionProjects/CardGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/gcode/CLionProjects/CardGame/cmake-build-debug/CMakeFiles/CardGame.dir
